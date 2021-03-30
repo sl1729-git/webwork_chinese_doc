@@ -1,0 +1,9 @@
+# Field order: student_id,last_name,first_name,status,comment,section,recitation,email_address,user_id,password,permission
+admin,Administrator,ces,C,,,,,admin,.bxpcera4I/bg,20
+test_user100,test_user100,,C,,,,,test_user100,$6$f4dUSFX70h9oWxcq$2S0YZmD4eEkjiyHVmxzLPMM3t1Ewo9fdge0mVfPa8MrmFcbKakHCZwn2LNkRUc/IOK.yTptRbVso1r8gq5Edu0,10
+test_user101,test_user101,,C,,,,,test_user101,$6$Be/lJeIto5yBTkW0$fEuzKZ35Q.mzQKEjj3P/g.VzZ.t.zb0rcd5KYpHvO1NmN5DiWFBlXPra5CpAqbu.oFVv1WIcVUIOPdNW0EVAS0,5
+test_user102,test_user102,,C,,,,,test_user102,$6$U/2tA5cQfNmVOkqb$KwgbWRnnj3OBc1htkiwUvk/EBBgyTY8wZSCWOowUW2gdpXmPthbxyA0lY2zBh70qa5fSSDJy9ok.khXx3zLJW1,3
+test_user103,test_user103,,C,,,,,test_user103,$6$wFRHaJG6U9rKpIuD$Skrax2nC86e528lkUwuQIL/JnEK8VHYNHOAaked1Ipu6fm0tPnh6tOSSAeqt8iiUXutEzUaYZtdAjWErmSHq90,2
+test_user104,test_user104,,C,,,,,test_user104,$6$GeRdZHxirbjLdocf$TKUpIKEQVgHcnqDmc.au31LqJGagFuWJ.uzXOzj8S5bT4jbzA2wH8ce.b0WUwVmypc3LvTxIYDB9oTBXM2kmq1,0
+test_user105,test_user105,,C,,,,,test_user105,$6$3BHx5eh3mZBmc.BZ$k.dVMPFf3cTCodBdwmBn/xB8v89tvkUFwMN4g5EUfirQU0L7ZtfpN5op6W6fJLnCO6lMJmJQJ6.BpBu1k0npq.,0
+test_user106,test_user106,,C,,,,,test_user106,$6$LQVmCxKA5ILuE2GM$a/VuLJk0DCX4h4jA.hi3CHP087lPWibtISiYiBH8pnOfXZmAfWcc8erJGyRVNzYTc1BlciQiskN6qFhV75jDj0,-5
